@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name: result-app
-          image: ockersamples/examplevotingapp_result
+          image: dockersamples/examplevotingapp_result
 
 ...
